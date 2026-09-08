@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA Electro & Tech Djelfa",
+  "description": "Showroom d'électroménager et haute technologie à Djelfa, Algérie. Catalogue interactif et vitrine premium.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
